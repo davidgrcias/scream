@@ -1,2 +1,0 @@
-# scream
-scream challenge
